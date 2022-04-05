@@ -1,2 +1,1 @@
-![Jason](https://user-images.githubusercontent.com/1903667/141035804-6ca68c56-3883-4707-a410-85a7de25ff63.jpg)
-> __[Jason Gardner](https://jasongardner.co/)__ is a prolific web developer, [photographer](https://instagram.com/jasonjgardner/), [artist](https://www.behance.net/-jason/), [editor](https://www.youtube.com/c/JasonGardnerCo), and [Minecraft creator](https://www.planetminecraft.com/member/-jason/) from KCMO.
+
