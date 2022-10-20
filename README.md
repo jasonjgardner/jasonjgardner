@@ -1,3 +1,5 @@
 > I `if` and only `if`.\
 > My conditionals `return` early.\
-> Not `else` or `else if`.
+> No `else if` or `else`.
+
+_(A haiku by [Jason](https://jasongardner.dev))_
